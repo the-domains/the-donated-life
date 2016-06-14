@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[the Donated Life]]></title>
         <description><![CDATA[the Donated Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-donated-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 03:03:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 03:03:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-donated-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Live to Run - Run to Live]]></title>
+            <description><![CDATA[<article><h1>Live to Run - Run to Live</h1><p>Post-transplant day 865. --Destination unknown.-- For the first time in my life, I have no idea where I'm going. Duke Admissions February-March 2016. February 18th thru 23rd for 1) high creatinine detected by both UNC [4.7] and Duke [4.9] on the 16th and 17th, respectively; 2) high blood pressure, noted on admission; 3) blood in stool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2879e637ba16b28639af5d2a0ee6396533aad44c.jpg"></article>]]></description>
+            <link>http://xlbrooklyn.blogspot.com/2016/04/destination-unknown.html</link>
+            <guid isPermaLink="false">a699ab1e-7172-43bc-b877-787059d0d87e</guid>
+            <pubDate>Tue, 14 Jun 2016 03:03:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live to Run - Run to Live]]></title>
             <description><![CDATA[<article><h1>Live to Run - Run to Live</h1><p>Post-transplant day #685. Survivors and heroes. There are just some days where I am absolutely humbled. Times when the face of true grace is revealed to me, when something divine is on display and if I pay attention, I'll learn something about what it means to be human.</p></article>]]></description>
